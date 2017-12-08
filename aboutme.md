@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My name is Alan M. Pitts.
+- Yes I did put the M. in there. Its a habit that I picked up when I was very young.
+- Priorities  in order
+  1. Health -- If I'm unhealthy then I can't attend to the rest of this list
+  2. Family -- I am a human. Humans are organized around families. Once I realized that, things started to get easier :-)
+  3. Work -- I do IT for work. I'm fortunate because for most of my life I have had huge interest in computer science.
+  
