@@ -24,9 +24,11 @@ description: The site where Alan writes about is personal projects. None of the 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - Cloud Native Computing Foundation: "https://cncf.io/"
+    - Docker: "http://www.docker.com/"
+    - Kubernetes: "https://kubernetes.io/"
+    - GitHub: "https://github.com/"
+    - Markdown: "http://spec.commonmark.org/"
   Author's home: "https://alanmpitts.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -59,11 +61,9 @@ author:
   facebook: alanmpitts  # eg. daattali
   github: alanmpitts    # eg. daattali
   twitter: alanmpitts   # eg. daattali
-  reddit: alanmpitts    # eg. daattali
   google-plus: +alanmpitts   # eg. +DeanAttali or 109424658772469020925
   linkedin: alanmpitts  # eg. daattali
-  instagram: alanmpitts # eg. daattali
-  youtube: alanmpitts   # eg. user/daattali or channel/daattali
+
 
 # Select which links to show in the footer
 footer-links-active:
