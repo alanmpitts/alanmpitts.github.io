@@ -1,5 +1,5 @@
 # --- General options --- #
-
+theme: jekyll-theme-dinky
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
@@ -214,4 +214,3 @@ prose:
 
 plugins:
   - jekyll-paginate
-theme: jekyll-theme-dinky
